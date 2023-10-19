@@ -6,4 +6,4 @@ String tempKey = MAPKEY1;
 
 User? currentFirebaseUser;
 Userclass? currUserInfo;
-// https://maps.googleapis.com/maps/api/directions/json?origin=Disneyland&destination=Universal+Studios+Hollywood&key=AIzaSyAr1dn7Gm4qQzKjgqocTqTCya1g8CKp7ZY
+
